@@ -1,0 +1,119 @@
+.nav-item>a {
+    margin-right: 1.75rem;
+    font-family: Sofia Pro Black, Helvetica Neue, Helvetica, Arial, sans-serif;
+    font-size: 15px;
+    cursor: pointer;
+    font-weight: 400;
+    white-space: nowrap;
+    color: white;
+    font-weight: bold;
+}
+img.img {
+    width: 75%;
+}
+img.img1 {
+    width: 75%;
+}
+h2 {
+    font-family: Cervo Neue Black, Helvetica Neue, Helvetica, Arial, sans-serif;
+    color: white !important;
+    font-weight: 900 !important;
+    font-size: 22px !important;
+}
+h1 {
+    font-family: Cervo Neue Black, Helvetica Neue, Helvetica, Arial, sans-serif;
+    font-weight: bold !important;
+    color: white !important;
+    font-size: 56px !important;
+}
+.banner {
+    background-image: url(./banner1.PNG);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 640px;
+}
+.banner2 {
+    background-image: url(./Desktop_Background.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    height: 710px;
+}
+.banner5 {
+    background-image: url(./04_Generation_BG_D_2.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 620px;
+    display: flex;
+    align-items: center;
+}
+.banner4 {
+    background-image: url(./twil-bg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 680px;
+    display: flex;
+    align-items: center;
+}
+img.icon {
+    width: 17%;
+    padding: 22px 9px;
+}
+.banner6 {
+    background-image: url('./banner6.PNG');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 680px;
+    display: flex;
+    align-items: center;
+}
+.nav-item>a:hover{
+    color: white;
+}
+    .bg-blue{
+        background-color: #0065c3;
+    }
+    .btn {
+        display: inline-block !important;
+        color: white !important;
+        text-align: center !important;
+        border: 2px solid white !important;
+        padding: 5px 40px !important;
+        border-radius: 20px !important;
+        font-weight: bold !important;
+        font-family: inherit;
+        font-size: 13px !important;
+    }
+    .ego {
+        color: #0065c3!important;
+        font-size: 54px !important;
+        font-weight: bold !important;
+    }
+    img.tt {
+        width: 330px;
+        height: 256px;
+        transition: .5s ease-in;
+    }
+    img.tt {
+        cursor: pointer;
+        width: 330px;
+        height: 256px;
+    }
+    .card-body {
+        background: rebeccapurple;
+        text-align: center;
+    }
+    p.card-text {
+        color: white;
+        font-size: 15.1px;
+        font-weight: 700;
+        font-family: Sofia Pro Black, Helvetica Neue, Helvetica, Arial, sans-serif;
+    }
+    .frice {
+        background-image: url(./ff.jpg);
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+    }
